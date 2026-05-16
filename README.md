@@ -1,0 +1,2 @@
+For use with TCPServer, you must create a settings.txt with the format <br> IP:x.x.x.x <br> PORT:xxx <br> where IP is the public ip of the host to be connected to and PORT is the same as the PORT that the server is listening to.
+You can send a file to the server using file:filename.ext where it will be saved before the line "this file is stored by the server" then send the modified version back. any files sent by the server will have their contents displayed in the terminal
